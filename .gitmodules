@@ -1,0 +1,6 @@
+[submodule "LazyCardio"]
+	path = LazyCardio
+	url = git@github.com:pandohansamuel19/LazyCardio.git
+[submodule "Aqua_Geospatial_Intelligence"]
+	path = Aqua_Geospatial_Intelligence
+	url = git@github.com:pandohansamuel19/Aqua_Geospatial_Intelligence.git
